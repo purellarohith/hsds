@@ -1,0 +1,2 @@
+Splash Screen 
+  > View ==> Two Views

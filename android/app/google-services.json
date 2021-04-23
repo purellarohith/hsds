@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "557341448795",
+    "project_id": "fir-otp-8352a",
+    "storage_bucket": "fir-otp-8352a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557341448795:android:7410670813b9234dc9fd7e",
+        "android_client_info": {
+          "package_name": "com.hsds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557341448795-ejk85qe6vp78qgn02239e7q94ls8ku9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hsds",
+            "certificate_hash": "a6d70a2d7dcebd95a9d5cdd5732573d8fc7b50ff"
+          }
+        },
+        {
+          "client_id": "557341448795-dbknute3e00h9u2fckbeq5p69r3m5e6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcekTdODf83k12KkbIIAf1E4niow6vJhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557341448795-dbknute3e00h9u2fckbeq5p69r3m5e6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
